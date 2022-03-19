@@ -1,0 +1,22 @@
+/* Media Queries */
+@media screen and (min-width: 1200px) {
+}
+/* 992 - 1200 px */
+@media screen and (max-width: 1200px) {
+}
+/* 768 - 992 px */
+@media screen and (max-width: 992px) {
+}
+/* 576 - 768 px */
+@media screen and (max-width: 768px) {
+}
+/* 320 - 576 px */
+@media screen and (max-width: 576px) {
+    /* --- Specification --- */
+}
+@media screen and (max-width: 460px) {
+}
+@media screen and (max-width: 320px) {
+}
+
+/*# sourceMappingURL=media-queries.css.map */
